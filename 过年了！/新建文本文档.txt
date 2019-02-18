@@ -1,0 +1,9 @@
+1、相对定位
+	相对于元素本身的位置去定位，实现元素位置的微调
+	属性：position   定位
+	取值：relative  相对的
+	配合偏移属性
+	top  上
+	left 左
+	right 右
+	bottom 下
